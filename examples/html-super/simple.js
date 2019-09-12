@@ -38,3 +38,5 @@ const Home = (username = 'usuário') => {
     }
   }
 }
+
+module.exports = {Home};
