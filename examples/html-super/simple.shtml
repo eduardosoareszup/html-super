@@ -1,0 +1,18 @@
+{
+	body   : {
+		main({ class: 'container', id: 'content' }): {
+			({ class: 'row' }): {
+				({ class: 'col s6' }): {
+					h1: {
+						'Meu título principal'
+					}
+				},
+				({ class: 'col s6' }): {
+					h2: {
+						'Meu título secundário'
+					}
+				}
+			}
+		}
+	}
+}
