@@ -1,2 +1,3 @@
-# Essa é a nova era do HTML
-Seja bem-vindo a nova era do Front-end
+# Transpilador HTML
+O conceito inicial imaginado é criar um transpilador para `HTML` inspirado principalmente no `JSON` e posteriormente dar algum poder a mais, seguindo talvez o conceito de `widget` do `Flutter`.
+
